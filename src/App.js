@@ -2,9 +2,12 @@ import React from "react";
 
 import "./styles.css";
 
+import api from './services/api'
+
 function App() {
   async function handleAddRepository() {
     // TODO
+    await api.post('/projects', { title: ""})
   }
 
   async function handleRemoveRepository(id) {
