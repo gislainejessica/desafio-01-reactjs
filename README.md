@@ -29,7 +29,7 @@ Para clonar e rodar essa aplicação, você vai precisar de [Git](), [Node.js]()
 $ git clone https://github.com/gislainejessica/desafio-01-reactjs
 
 # Entrar no projeto
-$ cd rocketshoes-react-native
+$ cd desafio-01-reactjs
 
 # Instalar as dependências do projeto
 $ yarn install 
